@@ -11,4 +11,4 @@ Files include:
 
 More information about these code lists and R code are included in the supplemental appendix of the paper under review in the British Journal of General Practice. 
 
-For ethnicity & infant vaccination code & inputs, refer to the CPRD Aurum ethnicity & childhood vaccinations repo: https://github.com/ClaireXZhang/ethnicity_childhood_vaccination_CPRD_aurum. More information is detailed in the published childhood vaccinations paper: Zhang et al 2023, eClinicalMedicine.
+For ethnicity & infant vaccination code & inputs, refer to the [CPRD Aurum ethnicity & childhood vaccinations repo](https://github.com/ClaireXZhang/ethnicity_childhood_vaccination_CPRD_aurum). More information is detailed in the published childhood vaccinations paper [Zhang et al 2023, eClinicalMedicine](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00458-3/fulltext).
