@@ -1,0 +1,251 @@
+medcodeid	snomedct_conceptid	snomedct_descriptionid	term	category	checklist
+921161000006117	921161000006101	921161000006117	Breast fed at 6 weeks	6wk	
+2012381000006118	2012381000006102	2012381000006118	On cow's milk at 6 weeks	6wk	
+434901000006119	170121005	263812012	6 week examination abnormal - on treatment	6wk	
+434911000006116	170119000	263810016	6 week examination abnormal - for observation	6wk	
+8278771000006113	837021000000103	2173141000000114	Parenteral nutrition at 6 weeks	6wk	
+1873981000006116	1873981000006100	1873981000006116	No breast milk feeding at all (6-8 week)	6wk	
+921131000006114	921131000006105	921131000006114	Infant feeding at 6 weeks	6wk	
+1873951000006112	1873951000006108	1873951000006112	Breast feeding status (6-8 week)	6wk	
+921171000006112	921171000006108	921171000006112	Breast fed + supp. at 6 weeks	6wk	
+6262161000006118	364771008	487947012	Infant feeding at 6 weeks - finding	6wk	
+1873961000006114	1873961000006105	1873961000006114	Exclusively breast milk feeding (6-8 week)	6wk	
+1873971000006119	1873971000006103	1873971000006119	Partially breast milk feeding (6-8 week)	6wk	
+921151000006119	921151000006103	921151000006119	Bottle fed at 6 weeks	6wk	
+921181000006110	921181000006106	921181000006110	On solids at 6 weeks	6wk	
+2012291000006114	2012291000006105	2012291000006114	Started infant weaning at 6 weeks	6wk	
+1990791000006113	1990791000006109	1990791000006113	Formula fed at 6 weeks	6wk	
+1913751000006113	1913751000006109	1913751000006113	Infant sleeping position at 6-8 weeks - prone	6wk	
+434921000006112	170120006	263811017	6 week examination abnormal - referred	6wk	
+763561000006111	183628009	283760010	Follow-up 6 weeks	6wk	
+263637016	364771008	2771250018	Finding of infant feeding at 6 weeks	6wk	
+4629011000006110	169971002	263631015	Infant feeding method at 6 weeks	6wk	
+263632010	169971002	263632010	Infant feeding at 6 weeks	6wk	
+263633017	169972009	263633017	Bottle fed at 6 weeks	6wk	
+263634011	169973004	263634011	Breast fed at 6 weeks	6wk	
+525121000006117	169974005	263635012	Breast and supplement fed at 6 weeks	6wk	
+263636013	169975006	263636013	On solids at 6 weeks	6wk	
+2130061000000118	817681000000100	2130061000000118	Not smiling by 8 weeks old	6wk	
+435111000006117	170306005	264059012	8 week exam.abnormal -for obs.	6wk	
+435121000006113	170307001	264060019	8 week exam.abnormal -referred	6wk	
+435101000006115	170308006	264061015	8 week exam.abn.-on treatment	6wk	
+1913761000006110	1913761000006106	1913761000006110	Infant sleeping position at 6-8 weeks - supine	6wk	
+1913771000006115	1913771000006104	1913771000006115	Infant sleeping position at 6-8 weeks - side	6wk	
+8368251000006111	988451000000100	2514681000000112	NIPE (Newborn and Infant Physical Examination) Screening Programme, eye examination status	6wk_baby_check	eyes
+8368231000006116	988431000000107	2514671000000110	NIPE (Newborn and Infant Physical Examination) Screening Programme, heart examination status	6wk_baby_check	heart
+8365361000006112	985391000000106	2514641000000116	NIPE (Newborn and Infant Physical Examination) Screening Programme, hip examination status	6wk_baby_check	hips
+8368271000006118	988471000000109	2514691000000114	NIPE (Newborn and Infant Physical Examination) Screening Programme, testis examination status	6wk_baby_check	testes
+921901000006116	921901000006100	921901000006116	Child 6 week exam.	6wk_baby_check	hips
+921941000006119	921941000006103	921941000006119	Child 6 week exam. normal	6wk_baby_check	hips
+921951000006117	921951000006101	921951000006117	Child 6 week exam. abnormal - for obs.	6wk_baby_check	
+1873751000006114	1873751000006105	1873751000006114	6-8 week physical examination result (hips)	6wk_baby_check	heart
+1873761000006111	1873761000006107	1873761000006111	6-8 week physical examination result (hips) - satisfactory	6wk_baby_check	eyes
+1873771000006116	1873771000006100	1873771000006116	6-8 week physical examination result (hips) - problem identified	6wk_baby_check	eyes
+1873791000006115	1873791000006104	1873791000006115	6-8 week physical examination result (hips) - not examined	6wk_baby_check	testes
+1873801000006119	1873801000006103	1873801000006119	6-8 week physical examination result (heart)	6wk_baby_check	testes
+1873871000006113	1873871000006109	1873871000006113	6-8 week physical examination result (eyes) - problem identified	6wk_baby_check	
+1873881000006111	1873881000006107	1873881000006111	6-8 week physical examination result (eyes) - problem suspected	6wk_baby_check	
+1873901000006113	1873901000006109	1873901000006113	6-8 week physical examination result (testes)	6wk_baby_check	
+1873921000006115	1873921000006104	1873921000006115	6-8 week physical examination (testes) - problem identified	6wk_baby_check	
+1873941000006110	1873941000006106	1873941000006110	6-8 week physical examination result (testes) - not examined	6wk_baby_check	
+1888801000006119	1888801000006103	1888801000006119	Referred to Childsmile at child 6-8 week exam.	6wk_baby_check	
+1913961000006113	1913961000006109	1913961000006113	Child 6-8 week exam.: gross motor development	6wk_baby_check	
+1913971000006118	1913971000006102	1913971000006118	Child 6-8 week exam.:gross motor devel. normal	6wk_baby_check	eyes
+1913981000006115	1913981000006104	1913981000006115	Child 6-8 week exam.:gross motor devel. abnormal	6wk_baby_check	eyes
+1914031000006118	1914031000006102	1914031000006118	Child 6-8 week exam.:hearing and communication normal	6wk_baby_check	
+1914071000006115	1914071000006104	1914071000006115	Child 6-8 week exam.:hearing and communication uncertain	6wk_baby_check	
+1914111000006111	1914111000006107	1914111000006111	Child 6-8 week exam.:vision and social awareness normal	6wk_baby_check	
+1914131000006117	1914131000006101	1914131000006117	Child 6-8 week exam.:vision and social awareness uncertain	6wk_baby_check	
+1914151000006112	1914151000006108	1914151000006112	Child 6-8 week exam.: development	6wk_baby_check	
+1914281000006112	1914281000006108	1914281000006112	Child 6-8 week exam.: response to sudden sound	6wk_baby_check	
+1914321000006118	1914321000006102	1914321000006118	Child 6-8 week exam.: response to unseen carer's voice	6wk_baby_check	heart
+1914431000006110	1914431000006106	1914431000006110	Child 6-8 week exam.:following object past midline not achieved	6wk_baby_check	heart
+1914461000006118	1914461000006102	1914461000006118	Child 6-8 week exam.: social smile observed	6wk_baby_check	hips
+1914471000006113	1914471000006109	1914471000006113	Child 6-8 week exam.: social smile-carer report	6wk_baby_check	testes
+1914511000006115	1914511000006104	1914511000006115	Child 6-8 week exam. - heart: normal	6wk_baby_check	
+1914521000006111	1914521000006107	1914521000006111	Child 6-8 week exam. - heart: uncertain	6wk_baby_check	testes
+1914541000006116	1914541000006100	1914541000006116	Child 6-8 week exam. - hip	6wk_baby_check	testes
+1914601000006117	1914601000006101	1914601000006117	Child 6-8 week exam. - testis: normal	6wk_baby_check	testes
+1914621000006110	1914621000006106	1914621000006110	Child 6-8 week exam.: testis exam. incomplete	6wk_baby_check	
+1914641000006115	1914641000006104	1914641000006115	Child 6-8 week exam. - genitalia	6wk_baby_check	
+1914651000006118	1914651000006102	1914651000006118	Child 6-8 week exam. - genitalia: normal	6wk_baby_check	
+1914681000006114	1914681000006105	1914681000006114	Child 6-8 week exam. - genitalia: uncertain	6wk_baby_check	
+1914691000006112	1914691000006108	1914691000006112	Child 6-8 week exam.: genitalia exam. incomplete	6wk_baby_check	
+1914701000006112	1914701000006108	1914701000006112	Child 6-8 week exam.:following object past midline-carer report	6wk_baby_check	
+1914721000006119	1914721000006103	1914721000006119	Child 6-8 week exam. - femoral pulse: normal	6wk_baby_check	
+1914801000006116	1914801000006100	1914801000006116	Child 6-8 week exam.: eye exam. incomplete	6wk_baby_check	
+1914831000006112	1914831000006108	1914831000006112	Child 6-8 week exam. - summary comments	6wk_baby_check	
+1914861000006115	1914861000006104	1914861000006115	Child 6-8 week exam. - recall to Dr (medium appt)	6wk_baby_check	eyes
+1914881000006113	1914881000006109	1914881000006113	Child 6-8 week exam. - reason for recall to Dr	6wk_baby_check	
+547371000006113	170118008	263809014	Child 6 week examination normal	6wk_baby_check	
+1914001000006114	1914001000006105	1914001000006114	Child 6-8 week examination incomplete	6wk_baby_check	heart
+1914101000006113	1914101000006109	1914101000006113	Child 6-8 week exam.: vision and social awareness	6wk_baby_check	heart
+1914161000006114	1914161000006105	1914161000006114	Child 6-8 week exam.: pull to sit (head lag decreasing)	6wk_baby_check	heart
+1914361000006112	1914361000006108	1914361000006112	Child 6-8 week exam.: intent regard of carer's face	6wk_baby_check	
+1914491000006114	1914491000006105	1914491000006114	Child 6-8 week exam. - heart	6wk_baby_check	
+1914731000006116	1914731000006100	1914731000006116	Child 6-8 week exam. - femoral pulse: abnormal	6wk_baby_check	
+1914741000006114	1914741000006105	1914741000006114	Child 6-8 week exam. - femoral pulse: uncertain	6wk_baby_check	
+1914751000006111	1914751000006107	1914751000006111	Child 6-8 week exam.: femoral pulse exam. incomplete	6wk_baby_check	
+1914811000006118	1914811000006102	1914811000006118	Child 6-8 week exam. - referred	6wk_baby_check	
+1914841000006119	1914841000006103	1914841000006119	Child 6-8 week exam. - recall to doctor	6wk_baby_check	
+1914871000006110	1914871000006106	1914871000006110	Child 6-8 week exam. - recall to Dr (long appt)	6wk_baby_check	
+1914911000006113	1914911000006109	1914911000006113	Child 6-8 week exam. - recall to PHN (medium appt)	6wk_baby_check	testes
+1914931000006119	1914931000006103	1914931000006119	Child 6-8 week exam. - reason for recall to PHN	6wk_baby_check	
+8056971000006119	197001000000105	295881000000117	Child health 6-8 weeks assessment	6wk_baby_check	
+547381000006111	170114005	263804016	Child 6 week exam. NOS	6wk_baby_check	
+1873911000006111	1873911000006107	1873911000006111	6-8 week physical examination result (testes) - satisfactory	6wk_baby_check	
+1913991000006117	1913991000006101	1913991000006117	Child 6-8 week exam.:gross motor devel. uncertain	6wk_baby_check	hips
+1914231000006111	1914231000006107	1914231000006111	Child 6-8 week exam.: ventral suspension not achieved	6wk_baby_check	eyes
+1914241000006118	1914241000006102	1914241000006118	Child 6-8 week exam.: handling (not floppy or stiff)	6wk_baby_check	
+1914411000006116	1914411000006100	1914411000006116	Child 6-8 week exam.:following object past midline observed	6wk_baby_check	
+1914551000006119	1914551000006103	1914551000006119	Child 6-8 week exam. - hip: normal	6wk_baby_check	
+1914761000006113	1914761000006109	1914761000006113	Child 6-8 week exam. - eye	6wk_baby_check	heart
+1914891000006111	1914891000006107	1914891000006111	Child 6-8 week exam. - recall to public health nurse	6wk_baby_check	
+921971000006110	921971000006106	921971000006110	Child 6 week exam. abn. - on treatment	6wk_baby_check	hips
+1914011000006112	1914011000006108	1914011000006112	Child 6-8 week exam.:gross motor devel. assess. incomplete	6wk_baby_check	hips
+1914501000006118	1914501000006102	1914501000006118	Child 6-8 week exam. - heart: abnormal	6wk_baby_check	
+1914531000006114	1914531000006105	1914531000006114	Child 6-8 week exam.: heart exam. incomplete	6wk_baby_check	testes
+1914561000006117	1914561000006101	1914561000006117	Child 6-8 week exam. - hip: abnormal	6wk_baby_check	testes
+1914571000006112	1914571000006108	1914571000006112	Child 6-8 week exam. - hip: uncertain	6wk_baby_check	eyes
+1914581000006110	1914581000006106	1914581000006110	Child 6-8 week exam.: hip exam. incomplete	6wk_baby_check	eyes
+1914591000006113	1914591000006109	1914591000006113	Child 6-8 week exam. - testis	6wk_baby_check	eyes
+1914671000006111	1914671000006107	1914671000006111	Child 6-8 week exam. - genitalia: abnormal	6wk_baby_check	
+1914771000006118	1914771000006102	1914771000006118	Child 6-8 week exam. - eye: normal	6wk_baby_check	
+1914781000006115	1914781000006104	1914781000006115	Child 6-8 week exam. - eye: abnormal	6wk_baby_check	heart
+1914791000006117	1914791000006101	1914791000006117	Child 6-8 week exam. - eye: uncertain	6wk_baby_check	heart
+1914851000006117	1914851000006101	1914851000006117	Child 6-8 week exam. - recall to Dr (short appt)	6wk_baby_check	eyes
+1914901000006110	1914901000006106	1914901000006110	Child 6-8 week exam. - recall to PHN (short appt)	6wk_baby_check	
+1873821000006112	1873821000006108	1873821000006112	6-8 week physical examination (heart) - problem identified	6wk_baby_check	testes
+1873831000006110	1873831000006106	1873831000006110	6-8 week physical examination result (heart) - problem suspected	6wk_baby_check	
+1873851000006115	1873851000006104	1873851000006115	6-8 week physical examination result (eyes)	6wk_baby_check	testes
+1873891000006114	1873891000006105	1873891000006114	6-8 week physical examination result (eyes) - not examined	6wk_baby_check	heart
+1873931000006117	1873931000006101	1873931000006117	6-8 week physical examination (testes) - problem suspected	6wk_baby_check	heart
+1914481000006111	1914481000006107	1914481000006111	Child 6-8 week exam.: social smile not achieved	6wk_baby_check	
+1914661000006116	1914661000006100	1914661000006116	Child 6-8 week exam. - testis: abnormal	6wk_baby_check	
+1914711000006110	1914711000006106	1914711000006110	Child 6-8 week exam. - femoral pulse	6wk_baby_check	
+1873811000006116	1873811000006100	1873811000006116	6-8 week physical examination result (heart) - satisfactory	6wk_baby_check	
+921961000006115	921961000006104	921961000006115	Child 6 week exam. abnormal - referred	6wk_baby_check	eyes
+1913781000006117	1913781000006101	1913781000006117	Not referred to Childsmile at child 6-8 week exam.	6wk_baby_check	testes
+1914021000006116	1914021000006100	1914021000006116	Child 6-8 week exam.: hearing and communication	6wk_baby_check	
+1914051000006113	1914051000006109	1914051000006113	Child 6-8 week exam.:hearing and communication abnormal	6wk_baby_check	hips
+1914121000006115	1914121000006104	1914121000006115	Child 6-8 week exam.:vision and social awareness abnormal	6wk_baby_check	
+1914611000006119	1914611000006103	1914611000006119	Child 6-8 week exam. - testis: uncertain	6wk_baby_check	eyes
+1914921000006117	1914921000006101	1914921000006117	Child 6-8 week exam. - recall to PHN (long appt)	6wk_baby_check	
+1873781000006118	1873781000006102	1873781000006118	6-8 week physical examination result (hips) - problem suspected	6wk_baby_check	
+1873841000006117	1873841000006101	1873841000006117	6-8 week physical examination result (heart) - not examined	6wk_baby_check	
+1873861000006118	1873861000006102	1873861000006118	6-8 week physical examination result (eyes) - satisfactory	6wk_baby_check	
+7293021000006119	444424008	2841495015	Child examination at 6 weeks with explicit context	6wk_baby_check	
+547361000006118	170114005	263804016	Child examination - 6 weeks	6wk_baby_check	
+4630071000006113	170114005	263805015	Infant screening at 6 weeks	6wk_baby_check	
+4632171000006113	170300004	264049011	Child 8 week examination	6wk_baby_check	
+264050011	170300004	264050011	Child 8 week exam	6wk_baby_check	
+2818355015	442162000	2818355015	Child 6 to 8 week examination	6wk_baby_check	
+547481000006119	170305009	264058016	Child 8 week exam. normal	6wk_baby_check	
+7293471000006111	444466009	2841426013	Child examination at 8 weeks with explicit context	6wk_baby_check	
+12460441000006113	443911000000106	929581000000110	[V]Routine child health examination	dev_check	
+12460431000006115	442211000000108	927501000000110	[V]Routine child health check	dev_check	
+460440014	243788004	364617014	[V]Routine child health check	dev_check	
+461163017	243788004	364617014	[V]Routine child health examination	dev_check	
+8095771000006115	301851000000104	535201000000110	Child developmental check	dev_check	
+5978051000006112	308401006	451719016	Child development check call	dev_check	
+547811000006112	185571007	285568019	Child development check - third call	dev_check	
+15401000000115	714681000000108	1565921000000116	Child development check administration	dev_check	
+547771000006112	185569007	285566015	Child development check - first call	dev_check	
+547791000006113	185570008	285567012	Child development check - second call	dev_check	
+548111000006115	170099002	263786011	Child examination - birth	dev_check	
+548101000006118	170107008	263797011	Child examination - 10 days	dev_check	
+418903012	281010000	418903012	Child development checks	dev_check	
+418904018	281010000	418904018	Paediatric surveillance checks	dev_check	
+5646331000006118	281010000	418905017	Pediatric surveillance checks	dev_check	
+215251000000111	299851000000105	530851000000118	Paediatric surveillance	dev_check	
+8095021000006118	299851000000105	530871000000110	Child health surveillance	dev_check	
+1716001000000116	449233006	2902043017	Child examination for emotional development	dev_check	
+1789761000000111	450835007	2920451010	Child visual perception assessment	dev_check	
+1766751000006112	320651000000100	586311000000117	Child health screening of social behaviour and play development	dev_check	
+1489347017	395691005	1489347017	Child examination: gait development	dev_check	
+6557461000006111	395691005	1494690014	Child exam: gait development	dev_check	
+248021000006119	243788004	364617014	Child examination	dev_check	
+218791000000115	268485009	401489016	Child examination: general/head	dev_check	
+548481000006115	268486005	2770376011	Child examination: trunk/limbs	dev_check	
+218801000000116	268486005	401490013	Child examination.: trunk/limbs	dev_check	
+548541000006110	268487001	2774256013	Child examination: motor/sphincter	dev_check	
+218821000000113	268487001	401491012	Child examination.: motor/sphincter	dev_check	
+547891000006119	271404001	2669548013	Child examination: development	dev_check	
+218851000000115	271404001	406175017	Child examination.: development	dev_check	
+411797019	275836006	2669822012	Child examination: head	dev_check	
+12483741000006112	275836006	411797019	Child exam.: head	dev_check	
+548341000006118	275837002	2669823019	Child examination: limbs	dev_check	
+12483801000006119	275837002	411798012	Child examination.: limbs	dev_check	
+218831000000110	275838007	2669824013	Child examination: motor	dev_check	
+12483811000006116	275838007	411799016	Child examination.: motor	dev_check	
+5577261000006114	275839004	2669825014	Child examination: sphincter	dev_check	
+218841000000118	275839004	411800017	Child examination.: sphincter	dev_check	
+548241000006113	170187006	263885018	Child exam.: general behaviour	dev_check	
+548131000006114	170188001	263886017	Child exam.: appearance	dev_check	
+548401000006112	170189009	2668183011	Child exam.: skin	dev_check	
+548231000006115	170190000	2668184017	Child exam.: fontanelle	dev_check	
+548381000006112	170191001	2668203017	Child exam.: palate	dev_check	
+548411000006110	170193003	263891016	Child exam.: special senses	dev_check	
+548491000006117	170194009	2668205012	Child exam.: vision	dev_check	
+548191000006113	170195005	2668206013	Child exam.: eyes	dev_check	
+548451000006111	170196006	2668207016	Child exam.: squint	dev_check	
+548181000006110	170197002	2668208014	Child exam.: ears	dev_check	
+548291000006116	170198007	2668209018	Child exam.: hearing	dev_check	
+548421000006119	170199004	2668210011	Child exam.: speech	dev_check	
+548301000006115	170203004	2668213013	Child exam.: heart	dev_check	
+548211000006114	170204005	2668214019	Child exam.: femoral arteries	dev_check	
+548321000006113	170205006	2667965018	Child exam.: hips	dev_check	
+548441000006114	170206007	2667966017	Child exam.: spine	dev_check	
+548201000006111	170207003	2667967014	Child exam.: feet	dev_check	
+548311000006117	170208008	2667968016	Child exam.: herniae	dev_check	
+548461000006113	170209000	2667969012	Child exam.: testes	dev_check	
+548271000006117	170210005	2667970013	Child exam.: genitalia	dev_check	
+548151000006119	170213007	2667994013	Child exam.: bowel control	dev_check	
+548141000006116	170214001	2667995014	Child exam.: bladder control	dev_check	
+548361000006119	170215000	2667996010	Child exam.: motor tone	dev_check	
+548501000006113	170218003	2667997018	Child exam.:gross motor devel.	dev_check	
+548221000006118	170219006	2667998011	Child exam.: fine motor devel.	dev_check	
+548511000006111	170220000	2668522013	Child exam.:social development	dev_check	
+548331000006111	170221001	2668523015	Child exam.: language develop.	dev_check	
+548521000006115	170193003	2668204011	Child exam.:special senses NOS	dev_check	
+1061101000000111	492771000000103	1880321000006118	Health visitor child 6 weeks of age contact	health_visitor	
+1877071000006113	1877071000006109	1877071000006113	Health visitor 6 week postnatal contact	health_visitor	
+1908221000006117	492771000000103	1061101000000111	Health visitor child 6 weeks of age contact	health_visitor	
+1913721000006116	1913721000006100	1913721000006116	Child 6-8 week examination by public health nurse	health_visitor	
+1963871000006113	1963871000006109	1963871000006113	Care activity: Health Visitor Health review (6-8 weeks)	health_visitor	
+2001901000006119	2001901000006103	2001901000006119	Health visitor child 6-8 weeks of age contact	health_visitor	
+247810012	1052581000000109	2648971000000112	Health visitor	health_visitor	
+448045015	1052751000000108	2649661000000119	Under care of health visitor	health_visitor	
+1877571000006116	1877571000006100	1877571000006116	Health visitor visit following patient transfer into area	health_visitor	
+1886681000006111	837681000000107	2174581000000111	Under care of health visiting service	health_visitor	
+1886691000006114	837701000000109	2174621000000111	Under care of health visiting service - Universal	health_visitor	
+2174621000000111	837701000000109	1861621000006115	Under care of health visiting service - Universal	health_visitor	
+2174661000000115	837721000000100	1861641000006110	Under care of health visiting service-Universal partnership plus	health_visitor	
+8427121000006110	1052581000000109	2648961000000117	HV - health visitor	health_visitor	
+8427131000006113	1052591000000106	2649011000000113	Health visitor attends	health_visitor	
+4929131000006116	224534008	3084280010	"Health visitor, nurse/midwife"	health_visitor	
+6001871000006115	310588009	454185014	Visit by health visitor	health_visitor	
+2174581000000111	837681000000107	1861611000006111	Under care of health visiting service	health_visitor	
+2404281000000118	939111000000107	2404281000000118	Student health visitor	health_visitor	
+1950151000006111	1950151000006107	1950151000006111	Healthcare profession: Health Visiting	health_visitor	
+1563981000006114	1563981000006105	1563981000006114	Health Visiting	health_visitor	
+285282018	1052671000000108	2648991000000111	Seen by health visitor	health_visitor	
+2160031011	1052831000000107	2649851000000118	Health visitor initial visit	health_visitor	
+128001000027118	1716831000006105	1716831000006114	Health Visitor	health_visitor	
+1886711000006112	837721000000100	2174661000000115	Under care of health visiting service - Universal partnership plus	health_visitor	
+2160037010	408487007	2160037010	Health visitor follow up	health_visitor	
+4929121000006119	224534008	337582018	"Health visitors, nurses and midwives"	health_visitor	
+8056901000006113	196931000000100	295741000000118	Health visitor child wellbeing visit	health_visitor	
+1850851000006113	1850851000006109	1850851000006113	Seen by specialist health visitor	health_visitor	
+1886701000006114	837711000000106	2174641000000116	Under care of health visiting service - Universal plus	health_visitor	
+226841000000113	166781000000101	226841000000113	Health visitor encounter following relocation	health_visitor	
+8453621000006114	1078501000000104	2703891000000112	Health visiting service	health_visitor	
+2174641000000116	837711000000106	1861631000006117	Under care of health visiting service - Universal plus	health_visitor	
+2234101000000113	864071000000102	2234101000000113	Seen by specialist health visitor	health_visitor	
+1873171000006117	1873171000006101	1873171000006117	Care contact type: health visitor	health_visitor	
+8274881000006111	828321000000104	2153601000000119	Health visiting	health_visitor	
+8049621000006115	163331000000106	214051000000117	Health Visitor Event	health_visitor	
+1776051000006119	1776051000006103	1776051000006119	Staff group: Health Visitor	health_visitor	
+250604016	1052591000000106	2651571000000112	Health visitor visits	health_visitor	
+8056961000006114	196991000000104	295861000000114	Health visitor child health review	health_visitor	
+146871000006110	1052631000000106	2649121000000115	Shared care: health visitor and general practitioner	health_visitor	
